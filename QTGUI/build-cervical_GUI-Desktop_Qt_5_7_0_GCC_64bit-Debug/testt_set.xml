@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<training_set type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    2.45125275e+01 5.54558181e-04 0. -2.53471375e-01 1.39304320e-04 0.
+    5.88623810e+00 1.17412266e-04 0. 1.27335205e+01 3.54950287e-04
+    1.45073337e-02 2.91833687e+01 4.15124145e-04 0. 4.90556984e+01
+    3.51743860e-04 0.</data></training_set>
+</opencv_storage>
